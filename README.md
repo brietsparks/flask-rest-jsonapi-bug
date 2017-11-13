@@ -2,10 +2,10 @@
 
 1. Clone repo
 2. Checkout branch `with-0.12.6` and install Python dependencies
-4. Hit API path `/persons?include=events`
+4. Start app and hit API path `/persons?include=events`
 5. See correct response
 6. Checkout branch `with-0.13.0` and install Python dependencies
-7. Hit API path `/persons?include=events`
+7. Start app and hit API path `/persons?include=events`
 8. See broken response
 
 ## Explanation
